@@ -1,6 +1,5 @@
 package org.QQ4;
 
-import com.sun.codemodel.internal.JOp;
 
 import javax.swing.*;
 import java.awt.*;
